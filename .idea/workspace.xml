@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="fd53aaf4-95fc-4a57-a61e-64d4e29dfaf4" name="Changes" comment="dvhoang_0 Add Lion" />
+=======
+    <list default="true" id="fd53aaf4-95fc-4a57-a61e-64d4e29dfaf4" name="Changes" comment="dvhoang_0 Add Lion">
+      <change afterPath="$PROJECT_DIR$/src/animal/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +39,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+<<<<<<< Updated upstream
     &quot;last_opened_file_path&quot;: &quot;D:/zoo&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/hoangdoanvan/oop/zoo/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
@@ -38,6 +47,25 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
+=======
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/hoangdoanvan/oop/zoo/src/Main.java&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="zoo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+>>>>>>> Stashed changes
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,6 +81,7 @@
     <MESSAGE value="dvhoang_0 Add Lion" />
     <option name="LAST_COMMIT_MESSAGE" value="dvhoang_0 Add Lion" />
   </component>
+<<<<<<< Updated upstream
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -64,4 +93,6 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+=======
+>>>>>>> Stashed changes
 </project>

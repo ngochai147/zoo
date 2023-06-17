@@ -1,3 +1,4 @@
+import animal.Cat;
 import animal.Dog;
 import animal.Lion;
 import animal.Monkey;
@@ -18,6 +19,11 @@ public class Main {
         //manhquynhne
         Monkey monkey = new Monkey("Khỉ đầu chó","male",10);
         zoo.add(monkey);
+
+
+        //Mỹ Duyên
+        Cat cat = new Cat("Maine Coon","male",1,"gừ gừ","cute vãi òooo","Quàng thuợng");
+        zoo.add(cat);
 
 
         //In ra danh sách các con vật có trong sở thú

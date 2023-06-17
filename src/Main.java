@@ -12,7 +12,7 @@ public class Main {
         zoo.add(lion);
 
         //dvhoang
-        Dog dog = new Dog("Kii", "male", 1);
+        Dog dog = new Dog("Ki ", "male", 1);
         zoo.add(dog);
 
 

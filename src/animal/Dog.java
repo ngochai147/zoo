@@ -1,7 +1,7 @@
 package animal;
 
 public class Dog {
-    String name; // tên
+    String name;
     String gender; // giới tính
     int age; // tuổi
 

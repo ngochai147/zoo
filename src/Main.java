@@ -1,5 +1,6 @@
 import animal.Dog;
 import animal.Lion;
+import animal.Monkey;
 
 import java.util.ArrayList;
 
@@ -14,6 +15,9 @@ public class Main {
         //dvhoang
         Dog dog = new Dog("Ki ", "male", 1);
         zoo.add(dog);
+        //manhquynhne
+        Monkey monkey = new Monkey("Khỉ đầu chó","male",10);
+        zoo.add(monkey);
 
 
         //In ra danh sách các con vật có trong sở thú

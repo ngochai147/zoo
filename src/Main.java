@@ -1,7 +1,4 @@
-import animal.Cat;
-import animal.Dog;
-import animal.Lion;
-import animal.Monkey;
+import animal.*;
 
 import java.util.ArrayList;
 
@@ -25,6 +22,8 @@ public class Main {
         Cat cat = new Cat("Maine Coon","male",1,"gừ gừ","cute vãi òooo","Quàng thuợng");
         zoo.add(cat);
 
+        //Ngọc Bích
+        Chicken chicken = new Chicken("Gà ta", "hen", 3);
 
         //In ra danh sách các con vật có trong sở thú
         printAllAnimals();

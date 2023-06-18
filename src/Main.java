@@ -25,6 +25,9 @@ public class Main {
         //Ngọc Bích
         Chicken chicken = new Chicken("Gà ta", "hen", 3);
 
+        //Trần Thành Đạt
+        Cheetah cheetah = new Cheetah("Báo đen","Male", 19,"Báo đời");
+        zoo.add(cheetah);
         //In ra danh sách các con vật có trong sở thú
         printAllAnimals();
     }

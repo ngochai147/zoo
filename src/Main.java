@@ -28,6 +28,9 @@ public class Main {
         //Trần Thành Đạt
         Cheetah cheetah = new Cheetah("Báo đen","Male", 19,"Báo đời");
         zoo.add(cheetah);
+        //NgọcHải
+        Wolf wolf=new Wolf("Xám","Wolf gray","male",5);
+        zoo.add(wolf);
         //In ra danh sách các con vật có trong sở thú
         printAllAnimals();
     }

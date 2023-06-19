@@ -2,7 +2,7 @@ package animal;
 
 public class Wolf {
      String name;
-     String breed;//giống
+     String breed;
     String gender;
     int age;
 
